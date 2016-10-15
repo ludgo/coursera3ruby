@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  fn: MyString
+  ln: MyString
+  g: MyString
+  yr: 1
+  res: 
+
+two:
+  fn: MyString
+  ln: MyString
+  g: MyString
+  yr: 1
+  res: 
